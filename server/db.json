@@ -1,0 +1,277 @@
+{
+    "advisories": [
+        {
+            "id": 1,
+            "title": "(DOTA 2) Learn from the pros",
+            "description": "Meet a pro-gamer to improve your skills",
+            "date": "21-07-2022",
+            "hour": "9:30pm",
+            "studentId": 2,
+            "discordServer": "Quasimodo",
+            "urlToImage": "https://staticg.sportskeeda.com/editor/2021/04/45716-16195438439457-800.jpg",
+            "coachId": 1
+        },
+        {
+            "id": 2,
+            "title": "(DOTA 2) Support Itemization",
+            "description": "How to build to help your team",
+            "date": "29-08-2022",
+            "hour": "10:30pm",
+            "studentId": 1,
+            "discordServer": "AS - WILD",
+            "urlToImage": "https://dota2freaks.com/wp-content/uploads/sites/10/2020/02/dota-2-recommended-items.jpg",
+            "coachId": 1
+        },
+        {
+            "id": 3,
+            "title": "(COD) Sensibility is the Key",
+            "description": "Learn how to set a good configuration for your matches",
+            "date": "15-09-2022",
+            "hour": "11:30pm",
+            "studentId": 1,
+            "discordServer": "YTS",
+            "urlToImage": "http://clutchround.com/wp-content/uploads/2015/08/csgo_corners_and_angles_dust2_T_CT.png",
+            "coachId": 2
+        }
+    ],
+    "coaches": [
+        {
+            "id": 1,
+            "nickname": "Nick",
+            "name": "Omar",
+            "lastname": "Alvar",
+            "email": "aaaasd",
+            "password": "1234",
+            "tournaments": "LigaFF",
+            "bibliography": "Developer",
+            "urlToImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM1QDTGY4XAju-jLpJnhADF4QzVjgvV_G5yjfAwiois5O0RKran-exjPaGWgRafp3zXAE&usqp=CAU",
+            "rate": 4.8,
+            "selectedGame": "DOTA"
+        },
+        {
+            "id": 2,
+            "nickname": "Estoico",
+            "name": "Omar",
+            "lastname": "Alvarado",
+            "selectedGame": "DOTA",
+            "role": "Rusher",
+            "heroes": "Skyler",
+            "email": "asdsadas",
+            "password": "abc123",
+            "tournaments": "LigaFF",
+            "bibliography": "Developer",
+            "rate": 4.2,
+            "urlToImage": "https://esports.eldesmarque.com/wp-content/uploads/2016/10/17431372369_b85998e8a6_k.jpg"
+        },
+        {
+            "id": 3,
+            "nickname": "Estoico",
+            "name": "Omar",
+            "lastname": "Alvarado",
+            "email": "asdsadas",
+            "password": "abc123",
+            "tournaments": "LigaFF",
+            "bibliography": "Recently coached OG to their The International 2021",
+            "urlToImage": "https://cdn0.gamesports.net/content_teasers/76000/76563.jpg?1543081069",
+            "rate": 5,
+            "selectedGame": "DOTA"
+        },
+        {
+            "id": 4,
+            "nickname": "Nick",
+            "name": "Omar",
+            "lastname": "Alvar",
+            "email": "aaaasd",
+            "password": "1234",
+            "tournaments": "The International 2018 | China Dota2 Supermajor",
+            "bibliography": "Ex Virtus.pro Dota 2 Coach",
+            "urlToImage": "https://static.gosugamers.net/92/89/74/034d7a6ea2b87b71b6213b64f0bfd19f54eff7d52ceaf3d4d0babbf1d3.jpg",
+            "rate": 4.5,
+            "selectedGame": "DOTA"
+        },
+        {
+            "id": 5,
+            "nickname": "Nick",
+            "name": "Omar",
+            "lastname": "Alvar",
+            "email": "aaaasd",
+            "password": "1234",
+            "tournaments": "LigaFF",
+            "bibliography": "Former Player and Ex OG Coach",
+            "urlToImage": "https://dota2peru.net/wp-content/uploads/2019/11/ceb-no-disfrute-el-dinero-que-gane-im-1.jpg?w=627&h=328",
+            "rate": 4.8,
+            "selectedGame": "DOTA"
+        }
+    ],
+    "students": [
+        {
+            "id": 1,
+            "email": "estoicoasd1@gmail.com",
+            "password": "asdw233",
+            "nickname": "Estoico",
+            "name": "Omar",
+            "lastname": "Alvarado",
+            "tournaments": "LigaFF",
+            "bibliography": "He is one of the most popular esportsmen of our time. Gabe Newell, creator of Valve, named him World's Most Charismatic Player.",
+            "urlToImage": "https://esports.eldesmarque.com/wp-content/uploads/2016/10/17431372369_b85998e8a6_k.jpg"
+        },
+        {
+            "email": "carlos123@gmail.com",
+            "password": "sab123",
+            "id": 2,
+            "nickname": "saber_Z",
+            "name": "Carlos",
+            "lastname": "Villanueva",
+            "tournaments": "DoomTF",
+            "bibliography": "He is widely regarded as the greatest competitive League of Legends player of all time.",
+            "urlToImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM1QDTGY4XAju-jLpJnhADF4QzVjgvV_G5yjfAwiois5O0RKran-exjPaGWgRafp3zXAE&usqp=CAU"
+        },
+        {
+            "id": 3,
+            "email": "duckdG@gmail.com",
+            "password": "1234a",
+            "nickname": "duckfield",
+            "name": "Diego",
+            "lastname": "Cespedes",
+            "tournaments": "MajorES",
+            "bibliography": "Developer who took interest in games",
+            "urlToImage": "https://e.rpp-noticias.io/normal/2016/10/29/023202_277176.png"
+        }
+    ],
+    "coach-students": [
+        {
+            "id": 1,
+            "coachId": 1,
+            "studentId": 1
+        },
+        {
+            "id": 2,
+            "coachId": 1,
+            "studentId": 3
+        },
+        {
+            "id": 3,
+            "coachId": 2,
+            "studentId": 2
+        }
+    ],
+    "publications": [
+        {
+            "id": 1,
+            "nickname": "Estoico",
+            "userId": 1,
+            "imageAvatar": "https://64.media.tumblr.com/902316fdb7068bdc73285a6bb912caaa/faeeb477b4443a15-86/s540x810/d9e033cc7487659ceeb6abc6a0281f09a42a8fde.gifv",
+            "imagePublication": "https://elcomercio.pe/resizer/6dGjOYyPkra4uZcR8zY6JcMjLwI=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/TNTRBGKDJBBDLMS37BVDZTEL5I.jpg",
+            "urlPublication": "https://elcomercio.pe/tecnologia/videojuegos/copa-softnyx-ganadores-torneo-videojuegos-repartieron-62-000-soles-noticia-606520-noticia/#:~:text=Los%20premios%20sumaron%20S%2F.,Operation%207%20y%20LoveRitmo%2C%20respectivamente.",
+            "title": "Copa Softnyx | Finalistas del torneo de videojuegos se repartieron 62.000 soles",
+            "description": "Tras cuatro años, la Copa Softnyx volvió. El domingo 10 de febrero se llevó a cabo las finales regionales de la Copa Softnyx. El escenario elegido fue el Reserclub de Pueblo Libre y hubo cuatro juegos en competencia: Rakion, Wolfteam, Operation 7 y LoveRitmo. Los premios sumaron S/. 62.000 para los participantes. Los equipos de Spektrum, Loberos, Reborn y Los Papus resultaron campeones de Rakion, Wolfteam, Operation 7 y LoveRitmo, respectivamente. "
+        },
+        {
+            "id": 2,
+            "nickname": "Seven Scissors",
+            "userId": 3,
+            "imageAvatar": "https://media.redadn.es/series/capi/capitulo_186492.jpg",
+            "imagePublication": "https://apkelite.org/wp-content/uploads/2021/10/1633283355_Lista-de-niveles-de-heroes-de-Mobile-Legends-de-octubre.jpg",
+            "urlPublication": "https://apkelite.org/blog/lista-de-niveles-de-heroes-de-mobile-legends-de-octubre-de-2021/",
+            "title": "Mira la lista de niveles de héroes de Mobile Legends de octubre de 2021",
+            "description": "Leyendas móviles Bang Bang acaba de terminar con Temporada 21 moviéndose a Temporada 22. Con una base de jugadores tan grande y solidaria que continúa creciendo, ML seguramente será uno de los más populares MOBA por mucho tiempo. Sin embargo, para esta temporada, echemos un vistazo a la lista de niveles de héroes de Mobile Legends para la temporada 22 en curso, para octubre de 2021, que ayudaría a los jugadores a comprender el meta actual dándoles una ventaja adicional mientras suben de rango después del restablecimiento de rango"
+        },
+        {
+            "id": 3,
+            "nickname": "Nickname1",
+            "userId": 2,
+            "imageAvatar": "https://i.pinimg.com/originals/0a/60/bc/0a60bc05b97180bf77a29d734d655223.jpg",
+            "imagePublication": "https://depor.com/resizer/Lkt-JPjl9HxH5GZ_X4bSKmrmpxY=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/Z4ACFMKYZVFZHPPR7PQE74TB2E.jpg",
+            "urlPublication": "https://esports.xataka.com/dota-2/dota-2-para-dummies-iniciacion-a-la-defensa-de-los-ancestros",
+            "title": "Quiero compartirles información relevante sobre el videojuego de Dota 2",
+            "description": "¿Alguna vez te has interesado por DOTA 2, pero te has sentido abrumado por la cantidad de nuevos conceptos, por la interfaz, por lo extenso de su canon? No te preocupes, es más común de lo que parece. Lo que os proponemos hoy es la primera parte de nuestra guía para recién llegados a DOTA 2."
+        }
+    ],
+    "tournaments": [
+        {
+            "id": 1,
+            "name": "Careperro.net",
+            "title": "Major Tournament Peru",
+            "schedule": "Sab May. 20 - 8:00pm",
+            "location": "CC Arenales, Piso 1, #23",
+            "urlToImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/04/26/15562666815994.jpg",
+            "cyberId": 1
+        },
+        {
+            "id": 2,
+            "name": "GG Cyber",
+            "title": "Major Tournament Peru Vol 2",
+            "schedule": "Monday June 6 - 5:00pm",
+            "location": "CC Arenales, Piso 1, #23",
+            "urlToImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/04/26/15562666815994.jpg",
+            "cyberId": 2
+        }
+    ],
+    "tournament-students": [
+        {
+            "id": 1,
+            "tournamentId": 1,
+            "studentId": 1
+        },
+        {
+            "id": 2,
+            "tournamentId": 1,
+            "studentId": 3
+        },
+        {
+            "id": 3,
+            "tournamentId": 2,
+            "studentId": 2
+        },
+        {
+            "id": 4,
+            "tournamentId": 2,
+            "studentId": 3
+        },
+        {
+            "id": 5,
+            "tournamentId": 2,
+            "studentId": 1
+        }
+    ],
+    "events": [
+        {
+            "id": 1,
+            "imagePublication": "https://assets.gamingintelligence.com/wp-content/uploads/sites/4/2022/05/16113943/Nota-de-prensa.jpg",
+            "urlPublication": "https://www.nferias.com/peru-gaming-show/",
+            "title": "Perú Gaming Show: la feria ",
+            "description": "Perú Gaming Show es un evento imperdible para los propietarios y responsables de los casinos, bingos y centros recreativos de Perú y la Región Andina.\n\nHasta allí se desplazan las principales firmas proveedoras de máquinas expendedoras y tragamonedas, sistemas de seguridad o soluciones tecnológicas para estos negocios, entre otros muchos productos y servicios, para presentar sus novedades y generar nuevos contactos comerciales."
+        },
+        {
+            "id": 2,
+            "imagePublication": "https://i.ytimg.com/vi/W5KOaJ8tS1A/maxresdefault.jpg",
+            "urlPublication": "https://www.karlosperu.com/mobile-legends-bang-bang-organiza-su-primer-campeonato-oficial-en-el-peru/",
+            "title": "Mobile Legends: Bang Bang organiza su primer campeonato oficial en el Perú ",
+            "description": "Los ganadores tendrán premios de hasta 25,000 diamantes del videojuego y la posibilidad de enfrentarse a los campeones de la MLBB Copa Challenger Perú"
+        }
+    ],
+    "cybers": [
+        {
+            "id": 1,
+            "email": "map233@gmail.com",
+            "password": "asdw233",
+            "nickname": "Mapero",
+            "name": "Wingo",
+            "lastname": "Alvarado",
+            "bibliography": "He is one of the most popular esportsmen of our time. Gabe Newell, creator of Valve, named him World's Most Charismatic Player.",
+            "urlToImage": "https://esports.eldesmarque.com/wp-content/uploads/2016/10/17431372369_b85998e8a6_k.jpg",
+            "address": "centro comercial arenales 252"
+        },
+        {
+            "id": 2,
+            "email": "erwerw@gmail.com",
+            "password": "ergerge",
+            "nickname": "Wenil",
+            "name": "Wasaberto",
+            "lastname": "Ramirez",
+            "bibliography": "He is one of the most popular esportsmen of our time. Gabe Newell, creator of Valve, named him World's Most Charismatic Player.",
+            "urlToImage": "https://esports.eldesmarque.com/wp-content/uploads/2016/10/17431372369_b85998e8a6_k.jpg",
+            "address": "centro comercial arenales 252"
+        }
+    ]
+}
